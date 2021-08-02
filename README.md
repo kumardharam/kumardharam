@@ -1,1 +1,6 @@
-### Hi there 👋, I am **Dharmendra** from India.
+## I'm **Dharmendra** from India.
+
+### Languages and Tools:
+Python
+SQL
+AWS
